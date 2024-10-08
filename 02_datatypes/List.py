@@ -40,3 +40,7 @@ print(names)
 # using index add an element
 names[0]="Sita"
 print(names)
+
+# run a for loop in list
+for name in names:
+    print(name)
